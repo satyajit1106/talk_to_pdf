@@ -573,7 +573,7 @@ pypdf==4.3.1
 
 ## 📬 Contact
 
-Author - Satyajit Patra[( https://www.linkedin.com/in/satyajit-patra-b0801a242/ )]
+Author - [Satyajit Patra]( https://www.linkedin.com/in/satyajit-patra-b0801a242/ )
 
 ---
 
