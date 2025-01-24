@@ -1,9 +1,5 @@
 # Talk to PDF 🤖📑
 
-
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://talk-to-pdf.streamlit.app/)
-
 ## Project Summary
 
 Talk to PDF is an innovative web application that enables natural language interaction with PDF documents through an AI-powered interface. The project leverages cutting-edge technologies including OpenAI's language models and LlamaIndex for document processing to create a seamless question-answering system for PDF content.
@@ -575,15 +571,9 @@ pypdf==4.3.1
 ```
 
 
-## 📝 License
-
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
-
 ## 📬 Contact
 
-Author - [Kaushal](https://www.linkedin.com/in/kaushal-powar-a52b1a159/)
-
-Project Link: [https://github.com/yourusername/talk-to-pdf](https://github.com/yourusername/talk-to-pdf)
+Author - Satyajit Patra[( https://www.linkedin.com/in/satyajit-patra-b0801a242/ )]
 
 ---
 
